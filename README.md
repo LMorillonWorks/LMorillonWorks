@@ -1,16 +1,14 @@
-### Hi there 👋
+# <div align="center">Hi there 👋, I'm Hugo MORILLON</div>
 
-<!--
-**HugoMWorks/HugoMWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">BigData Student Ambitionning to become a IT Teacher in high school.</div>
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently crating a Flexible Database with User Interface on Excel
+- 🌱 I’m currently passing a BigData Degree at Dijon in University of Burgundy
+- 📫 How to reach me: h.morillon@outlook.com
+- ⚡ Fun fact: After a year of coaching in esport I figured out that share my knowledge is something making sense to me better than create websites or whatever... This is why I'm now ambitioning to become a teacher.
+- 😄 Pronouns: 🥚
+
+### Most Experienced Technologies :
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="75"/><img src="https://wyday.com/images/lm/langs/vba.svg" height="75"/><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="75"/>
