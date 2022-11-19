@@ -1,6 +1,6 @@
 # <div align="center">Hi there 👋, I'm Hugo MORILLON</div>
 
-### <div align="center">BigData Student Ambitionning to become a IT Teacher in high school.</div>
+### <div align="center">Developper specialized into Data Analysis. Ambitionning to become a IT Teacher in high school.</div>
  
 
 
