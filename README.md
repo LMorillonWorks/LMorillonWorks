@@ -7,7 +7,7 @@
 - 💻 Je travaille actuellement comme responsable des outils numériques pour la société PORTEMETAL. Je conçois des outils intégralement à l'aide de la suite Google Workspace et les adaptent aux besoin de mes collègue afin de leur permettre assurer une stabilité dans leur travail et le suivi des processus de l'entreprise. 
   
 ### Les technologies avec lesquelles j'ai le plus d'expérience :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="50"/><img src="https://www.python.org/static/img/python-logo.png" height="50"><img src="https://www.tradiewebguys.com.au/wp-content/uploads/2024/08/Google-Workspace.webp" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="50"/><img src="https://www.python.org/static/img/python-logo.png" height="50"><img src="https://www.tradiewebguys.com.au/wp-content/uploads/2024/08/Google-Workspace.webp" height="120">
 
 
 ### Ambitions
