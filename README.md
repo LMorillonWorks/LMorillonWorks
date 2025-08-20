@@ -1,16 +1,16 @@
-# <div align="center">Hi there 👋, I'm Hugo MORILLON</div>
+# <div align="center">Salut ! 👋</div>
 
-### <div align="center">Junior Developper & Data Analyst.</div>
+### <div align="center">Développeur et Data Analyst de formation</div>
 
-- 🎓Studied at [Ynov Lyon Campus](https://www.ynov.com/campus/lyon) and [IUT Dijon Auxerre](https://iutdijon.u-bourgogne.fr/www/)
-- 📫 How to reach me: h.morillon@outlook.com
-- 💻 Currently Working at Computacenter, solving IT incident and leading production analysis for major incident detection.
+- 🎓J'ai étudié à [Ynov Lyon Campus](https://www.ynov.com/campus/lyon) et à [l'IUT Dijon Auxerre](https://iutdijon.u-bourgogne.fr/www/)
+- 📫 Pour me contacter : h.morillon@outlook.com
+- 💻 Je travaille actuellement comme responsable des outils numériques pour la société PORTEMETAL. Je conçois des outils intégralement à l'aide de la suite Google Workspace et les adaptent aux besoin de mes collègue afin de leur permettre assurer une stabilité dans leur travail et le suivi des processus de l'entreprise. 
   
-### Most Experienced Technologies :
+### Les technologies avec lesquelles j'ai le plus d'expérience :
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="50"/><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="50"/><img src="https://www.python.org/static/img/python-logo.png" height="50">
 
 ### Ambitions
 
-I'm actually working on web development personnel projects in order to change my carrer !
+Je me forme en autodidacte et réalise un site web e-commerce pour le projet professionnel de ma compagne !
 
-Studying technonologies  : <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="50"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="50">
+Technologies travaillées  : <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" height="50"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="50">
